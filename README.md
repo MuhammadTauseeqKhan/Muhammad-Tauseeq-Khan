@@ -28,9 +28,9 @@ Passionate about building AI-powered solutions, developing practical software, d
 
 | Certification | Provider | Date | Verify |
 |---|---|---|---|
-|  Digital Marketing | Google / Coursera | Jul 2026 | [Verify](https://coursera.org/verify/4OW30D78UVOC) |
-| Foundations of Digital Marketing and E-commerce | Google / Coursera | Jul 2026 | [Verify](https://coursera.org/verify/EC2JPFBNNXJU) |
-| Digital Marketing | DigiSkills.pk (Virtual University & Ignite) | Dec 2025 | [Verify](https://digiskills.pk/verify) · ID: V8EKAMYMK |
-| Freelancing | DigiSkills.pk (Virtual University & Ignite) | Dec 2025 | [Verify](https://digiskills.pk/verify) · ID: 5PJAS98MK |
-| One Million Prompters (Prompt Engineering) | Dubai Future Foundation | n/a | n/a |
-| Photography | Mindluster | Sep 2023 | n/a |
+|  Digital Marketing |  Coursera | Jul 2026 | [Verify](https://coursera.org/verify/4OW30D78UVOC) |
+| Foundations of Digital Marketing and E-commerce |  Coursera | Jul 2026 | [Verify](https://coursera.org/verify/EC2JPFBNNXJU) |
+| Digital Marketing | DigiSkills | Dec 2025 | [Verify](https://digiskills.pk/verify)  |
+| Freelancing | DigiSkills | Dec 2025 | [Verify](https://digiskills.pk/verify)|
+| One Million Prompters (Prompt Engineering) | Dubai Future Foundation |jan 2026  |  |
+| Photography | Mindluster | Sep 2023 |  |
