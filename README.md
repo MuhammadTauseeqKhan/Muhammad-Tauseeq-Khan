@@ -20,3 +20,17 @@ Passionate about building AI-powered solutions, developing practical software, d
 ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-5b2fc9?style=for-the-badge)
 ![Content Creation](https://img.shields.io/badge/Content%20Creation-5b2fc9?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-5b2fc9?style=for-the-badge&logo=git&logoColor=white)
+---
+
+---
+
+##  CERTIFICATIONS
+
+| Certification | Provider | Date | Verify |
+|---|---|---|---|
+|  Digital Marketing | Google / Coursera | Jul 2026 | [Verify](https://coursera.org/verify/4OW30D78UVOC) |
+| Foundations of Digital Marketing and E-commerce | Google / Coursera | Jul 2026 | [Verify](https://coursera.org/verify/EC2JPFBNNXJU) |
+| Digital Marketing | DigiSkills.pk (Virtual University & Ignite) | Dec 2025 | [Verify](https://digiskills.pk/verify) · ID: V8EKAMYMK |
+| Freelancing | DigiSkills.pk (Virtual University & Ignite) | Dec 2025 | [Verify](https://digiskills.pk/verify) · ID: 5PJAS98MK |
+| One Million Prompters (Prompt Engineering) | Dubai Future Foundation | n/a | n/a |
+| Photography | Mindluster | Sep 2023 | n/a |
