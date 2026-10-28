@@ -20,17 +20,33 @@ Passionate about building AI-powered solutions, developing practical software, d
 ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-5b2fc9?style=for-the-badge)
 ![Content Creation](https://img.shields.io/badge/Content%20Creation-5b2fc9?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-5b2fc9?style=for-the-badge&logo=git&logoColor=white)
----
 
 ---
 
-##  CERTIFICATIONS
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tauseeqkhanmarwat&show_icons=true&hide_border=false&border_color=5b2fc9&border_radius=12&bg_color=0f0c29&title_color=a78bfa&icon_color=7c4dff&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauseeqkhanmarwat&layout=compact&hide_border=false&border_color=5b2fc9&border_radius=12&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tauseeqkhanmarwat&background=0f0c29&border=5b2fc9&stroke=5b2fc9&ring=a78bfa&fire=ff7b54&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c4b5fd&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauseeqkhanmarwat&bg_color=0f0c29&color=c4b5fd&line=7c4dff&point=ffffff&area=true&area_color=5b2fc9&hide_border=true&radius=12" width="100%" />
+</p>
+
+---
+
+## 🎓 Certifications
 
 | Certification | Provider | Date | Verify |
 |---|---|---|---|
-|  Digital Marketing |  Coursera | Jul 2026 | [Verify](https://coursera.org/verify/4OW30D78UVOC) |
+| Attract and Engage Customers with Digital Marketing |  Coursera | Jul 2026 | [Verify](https://coursera.org/verify/4OW30D78UVOC) |
 | Foundations of Digital Marketing and E-commerce |  Coursera | Jul 2026 | [Verify](https://coursera.org/verify/EC2JPFBNNXJU) |
-| Digital Marketing | DigiSkills | Dec 2025 | [Verify](https://digiskills.pk/verify)  |
-| Freelancing | DigiSkills | Dec 2025 | [Verify](https://digiskills.pk/verify)|
-| One Million Prompters (Prompt Engineering) | Dubai Future Foundation |jan 2026  |  |
-| Photography | Mindluster | Sep 2023 |  |
+| Digital Marketing | DigiSkills.pk | Dec 2025 | [Verify](https://digiskills.pk/verify) |
+| Freelancing | DigiSkills.pk | Dec 2025 | [Verify](https://digiskills.pk/verify) |
+| One Million Prompters (Prompt Engineering) | Dubai Future Foundation | Jan 2026 | n/a |
+| Photography | Mindluster | Sep 2023 | n/a |
