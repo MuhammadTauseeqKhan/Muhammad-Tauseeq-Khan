@@ -50,3 +50,30 @@ Passionate about building AI-powered solutions, developing practical software, d
 | Freelancing | DigiSkills.pk | Dec 2025 | [Verify](https://digiskills.pk/verify) |
 | One Million Prompters (Prompt Engineering) | Dubai Future Foundation | Jan 2026 | n/a |
 | Photography | Mindluster | Sep 2023 | n/a |
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<h3>Building at the intersection of AI, marketing, and content.</h3>
+
+<p>Interested in AI-powered solutions, digital growth, or creative content</p>
+
+<p>I'm open to freelance work, collaborations, and exciting projects.</p>
+
+<br>
+
+<a href="PUT_YOUR_LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-5b2fc9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="PUT_YOUR_YOUTUBE_LINK_HERE"><img src="https://img.shields.io/badge/WATCH%20ON%20YOUTUBE-0d1117?style=for-the-badge&logo=youtube&logoColor=a78bfa" /></a>
+<a href="mailto:PUT_YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a>
+
+<br><br>
+
+<sub><i>Creating intelligent solutions. Sharing meaningful content.</i></sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:a78bfa,100:0f0c29&section=footer" width="100%" />
+
+</div>
